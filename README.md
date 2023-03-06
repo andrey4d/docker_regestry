@@ -1,1 +1,1 @@
-# docker_regestry
+# SAMPLE Docker regesty 
